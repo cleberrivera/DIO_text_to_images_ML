@@ -1,0 +1,4136 @@
+Detected attributes
+
+REPÚBLICAFEDERATIVADOBRASIL
+GOVERNODOESTADODESÃOPAULO
+SECRETARIADEESTADODAEDUCAÇÃO
+DIRETORIADEENSINOREGIÃONORTE2
+Diretoriade
+EnsinoNorte
+ESCOLAESTADUALCÔNEGOJOÃOLIGABUE
+Son
+RUADAGROTA,Nº483-VILAGUSTAVO-SÃOPAULO,SP-CEP02206-010FONE:(11)2983-3552
+Decretonº42.703de29/11/1963/ResoluçãoSE37de24/1996
+AtosLegaisdaEscolaedeAutorizaçãodoCurso
+CERTIFICADO
+ODiretordaEscola,nostermosdoincisoVII,artigo24daLeiFederal9394/96,
+confereaCLEBERRIVERALOPEZFILHO,RG:50.226.261-8/SP,nascidoem04dedezembrode2001,
+naturaldoMunicípiodeSãoPaulo,EstadodeSãoPaulo,
+opresenteCERTIFICADOdeconclusãodoEnsinoFundamental,em31deDezembrode2015.
+SãoPaulo,31deDezembrode2015.
+CleberR
+Concluinte
+GerentedeEscola
+DiretordeEscola
+ThelmaAp.CamposMachado
+NivaldoMunizKosloski
+RG.14509137-5
+DiretordeEscola
+GerentedeOrg.Escolar
+RG.55.229.628-4
+
+
+JSON:
+
+[
+  {
+    "lines": [
+      {
+        "text": "REPÚBLICA FEDERATIVA DO BRASIL",
+        "boundingPolygon": [
+          {
+            "x": 1254,
+            "y": 304
+          },
+          {
+            "x": 2176,
+            "y": 300
+          },
+          {
+            "x": 2177,
+            "y": 350
+          },
+          {
+            "x": 1254,
+            "y": 356
+          }
+        ],
+        "words": [
+          {
+            "text": "REPÚBLICA",
+            "boundingPolygon": [
+              {
+                "x": 1254,
+                "y": 305
+              },
+              {
+                "x": 1540,
+                "y": 303
+              },
+              {
+                "x": 1541,
+                "y": 354
+              },
+              {
+                "x": 1254,
+                "y": 357
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "FEDERATIVA",
+            "boundingPolygon": [
+              {
+                "x": 1561,
+                "y": 303
+              },
+              {
+                "x": 1884,
+                "y": 302
+              },
+              {
+                "x": 1885,
+                "y": 351
+              },
+              {
+                "x": 1562,
+                "y": 354
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "DO",
+            "boundingPolygon": [
+              {
+                "x": 1901,
+                "y": 302
+              },
+              {
+                "x": 1963,
+                "y": 301
+              },
+              {
+                "x": 1964,
+                "y": 351
+              },
+              {
+                "x": 1902,
+                "y": 351
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "BRASIL",
+            "boundingPolygon": [
+              {
+                "x": 1990,
+                "y": 301
+              },
+              {
+                "x": 2171,
+                "y": 300
+              },
+              {
+                "x": 2173,
+                "y": 350
+              },
+              {
+                "x": 1992,
+                "y": 351
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "GOVERNO DO ESTADO DE SÃO PAULO",
+        "boundingPolygon": [
+          {
+            "x": 1260,
+            "y": 362
+          },
+          {
+            "x": 2169,
+            "y": 353
+          },
+          {
+            "x": 2170,
+            "y": 405
+          },
+          {
+            "x": 1261,
+            "y": 412
+          }
+        ],
+        "words": [
+          {
+            "text": "GOVERNO",
+            "boundingPolygon": [
+              {
+                "x": 1261,
+                "y": 367
+              },
+              {
+                "x": 1495,
+                "y": 362
+              },
+              {
+                "x": 1495,
+                "y": 411
+              },
+              {
+                "x": 1261,
+                "y": 412
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "DO",
+            "boundingPolygon": [
+              {
+                "x": 1516,
+                "y": 361
+              },
+              {
+                "x": 1578,
+                "y": 360
+              },
+              {
+                "x": 1578,
+                "y": 410
+              },
+              {
+                "x": 1516,
+                "y": 411
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "ESTADO",
+            "boundingPolygon": [
+              {
+                "x": 1602,
+                "y": 360
+              },
+              {
+                "x": 1790,
+                "y": 357
+              },
+              {
+                "x": 1790,
+                "y": 409
+              },
+              {
+                "x": 1602,
+                "y": 410
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "DE",
+            "boundingPolygon": [
+              {
+                "x": 1811,
+                "y": 357
+              },
+              {
+                "x": 1873,
+                "y": 356
+              },
+              {
+                "x": 1873,
+                "y": 408
+              },
+              {
+                "x": 1811,
+                "y": 409
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "SÃO",
+            "boundingPolygon": [
+              {
+                "x": 1893,
+                "y": 356
+              },
+              {
+                "x": 1979,
+                "y": 355
+              },
+              {
+                "x": 1979,
+                "y": 408
+              },
+              {
+                "x": 1893,
+                "y": 408
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "PAULO",
+            "boundingPolygon": [
+              {
+                "x": 2003,
+                "y": 355
+              },
+              {
+                "x": 2158,
+                "y": 354
+              },
+              {
+                "x": 2158,
+                "y": 407
+              },
+              {
+                "x": 2003,
+                "y": 408
+              }
+            ],
+            "confidence": 0.998
+          }
+        ]
+      },
+      {
+        "text": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
+        "boundingPolygon": [
+          {
+            "x": 1235,
+            "y": 420
+          },
+          {
+            "x": 2204,
+            "y": 410
+          },
+          {
+            "x": 2205,
+            "y": 462
+          },
+          {
+            "x": 1235,
+            "y": 472
+          }
+        ],
+        "words": [
+          {
+            "text": "SECRETARIA",
+            "boundingPolygon": [
+              {
+                "x": 1235,
+                "y": 424
+              },
+              {
+                "x": 1535,
+                "y": 417
+              },
+              {
+                "x": 1534,
+                "y": 469
+              },
+              {
+                "x": 1235,
+                "y": 472
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "DE",
+            "boundingPolygon": [
+              {
+                "x": 1549,
+                "y": 417
+              },
+              {
+                "x": 1613,
+                "y": 416
+              },
+              {
+                "x": 1612,
+                "y": 468
+              },
+              {
+                "x": 1549,
+                "y": 469
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "ESTADO",
+            "boundingPolygon": [
+              {
+                "x": 1631,
+                "y": 416
+              },
+              {
+                "x": 1819,
+                "y": 413
+              },
+              {
+                "x": 1818,
+                "y": 466
+              },
+              {
+                "x": 1630,
+                "y": 468
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "DA",
+            "boundingPolygon": [
+              {
+                "x": 1840,
+                "y": 413
+              },
+              {
+                "x": 1907,
+                "y": 413
+              },
+              {
+                "x": 1905,
+                "y": 465
+              },
+              {
+                "x": 1839,
+                "y": 466
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "EDUCAÇÃO",
+            "boundingPolygon": [
+              {
+                "x": 1925,
+                "y": 412
+              },
+              {
+                "x": 2194,
+                "y": 411
+              },
+              {
+                "x": 2192,
+                "y": 463
+              },
+              {
+                "x": 1923,
+                "y": 465
+              }
+            ],
+            "confidence": 0.991
+          }
+        ]
+      },
+      {
+        "text": "DIRETORIA DE ENSINO REGIÃO NORTE 2",
+        "boundingPolygon": [
+          {
+            "x": 1233,
+            "y": 477
+          },
+          {
+            "x": 2198,
+            "y": 467
+          },
+          {
+            "x": 2199,
+            "y": 518
+          },
+          {
+            "x": 1233,
+            "y": 527
+          }
+        ],
+        "words": [
+          {
+            "text": "DIRETORIA",
+            "boundingPolygon": [
+              {
+                "x": 1239,
+                "y": 483
+              },
+              {
+                "x": 1502,
+                "y": 476
+              },
+              {
+                "x": 1501,
+                "y": 526
+              },
+              {
+                "x": 1236,
+                "y": 527
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "DE",
+            "boundingPolygon": [
+              {
+                "x": 1520,
+                "y": 476
+              },
+              {
+                "x": 1582,
+                "y": 475
+              },
+              {
+                "x": 1581,
+                "y": 526
+              },
+              {
+                "x": 1518,
+                "y": 526
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "ENSINO",
+            "boundingPolygon": [
+              {
+                "x": 1599,
+                "y": 474
+              },
+              {
+                "x": 1771,
+                "y": 471
+              },
+              {
+                "x": 1770,
+                "y": 525
+              },
+              {
+                "x": 1598,
+                "y": 526
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "REGIÃO",
+            "boundingPolygon": [
+              {
+                "x": 1791,
+                "y": 471
+              },
+              {
+                "x": 1972,
+                "y": 469
+              },
+              {
+                "x": 1972,
+                "y": 522
+              },
+              {
+                "x": 1790,
+                "y": 524
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "NORTE",
+            "boundingPolygon": [
+              {
+                "x": 1993,
+                "y": 469
+              },
+              {
+                "x": 2158,
+                "y": 468
+              },
+              {
+                "x": 2158,
+                "y": 520
+              },
+              {
+                "x": 1993,
+                "y": 522
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "2",
+            "boundingPolygon": [
+              {
+                "x": 2179,
+                "y": 468
+              },
+              {
+                "x": 2198,
+                "y": 468
+              },
+              {
+                "x": 2198,
+                "y": 519
+              },
+              {
+                "x": 2178,
+                "y": 520
+              }
+            ],
+            "confidence": 0.997
+          }
+        ]
+      },
+      {
+        "text": "Diretoria de",
+        "boundingPolygon": [
+          {
+            "x": 2694,
+            "y": 448
+          },
+          {
+            "x": 2878,
+            "y": 466
+          },
+          {
+            "x": 2876,
+            "y": 497
+          },
+          {
+            "x": 2692,
+            "y": 483
+          }
+        ],
+        "words": [
+          {
+            "text": "Diretoria",
+            "boundingPolygon": [
+              {
+                "x": 2698,
+                "y": 449
+              },
+              {
+                "x": 2824,
+                "y": 463
+              },
+              {
+                "x": 2825,
+                "y": 495
+              },
+              {
+                "x": 2696,
+                "y": 484
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2833,
+                "y": 464
+              },
+              {
+                "x": 2869,
+                "y": 466
+              },
+              {
+                "x": 2871,
+                "y": 497
+              },
+              {
+                "x": 2834,
+                "y": 495
+              }
+            ],
+            "confidence": 0.894
+          }
+        ]
+      },
+      {
+        "text": "Ensino Norte",
+        "boundingPolygon": [
+          {
+            "x": 2675,
+            "y": 491
+          },
+          {
+            "x": 2887,
+            "y": 504
+          },
+          {
+            "x": 2885,
+            "y": 534
+          },
+          {
+            "x": 2673,
+            "y": 523
+          }
+        ],
+        "words": [
+          {
+            "text": "Ensino",
+            "boundingPolygon": [
+              {
+                "x": 2675,
+                "y": 492
+              },
+              {
+                "x": 2775,
+                "y": 499
+              },
+              {
+                "x": 2773,
+                "y": 530
+              },
+              {
+                "x": 2673,
+                "y": 524
+              }
+            ],
+            "confidence": 0.965
+          },
+          {
+            "text": "Norte",
+            "boundingPolygon": [
+              {
+                "x": 2786,
+                "y": 500
+              },
+              {
+                "x": 2869,
+                "y": 506
+              },
+              {
+                "x": 2867,
+                "y": 533
+              },
+              {
+                "x": 2784,
+                "y": 530
+              }
+            ],
+            "confidence": 0.695
+          }
+        ]
+      },
+      {
+        "text": "ESCOLA ESTADUAL CÔNEGO JOÃO LIGABUE",
+        "boundingPolygon": [
+          {
+            "x": 978,
+            "y": 599
+          },
+          {
+            "x": 2470,
+            "y": 584
+          },
+          {
+            "x": 2471,
+            "y": 645
+          },
+          {
+            "x": 978,
+            "y": 661
+          }
+        ],
+        "words": [
+          {
+            "text": "ESCOLA",
+            "boundingPolygon": [
+              {
+                "x": 979,
+                "y": 609
+              },
+              {
+                "x": 1239,
+                "y": 601
+              },
+              {
+                "x": 1239,
+                "y": 659
+              },
+              {
+                "x": 979,
+                "y": 661
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "ESTADUAL",
+            "boundingPolygon": [
+              {
+                "x": 1268,
+                "y": 601
+              },
+              {
+                "x": 1617,
+                "y": 592
+              },
+              {
+                "x": 1618,
+                "y": 656
+              },
+              {
+                "x": 1269,
+                "y": 659
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "CÔNEGO",
+            "boundingPolygon": [
+              {
+                "x": 1646,
+                "y": 592
+              },
+              {
+                "x": 1919,
+                "y": 588
+              },
+              {
+                "x": 1920,
+                "y": 653
+              },
+              {
+                "x": 1647,
+                "y": 656
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "JOÃO",
+            "boundingPolygon": [
+              {
+                "x": 1960,
+                "y": 587
+              },
+              {
+                "x": 2120,
+                "y": 586
+              },
+              {
+                "x": 2122,
+                "y": 651
+              },
+              {
+                "x": 1961,
+                "y": 653
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "LIGABUE",
+            "boundingPolygon": [
+              {
+                "x": 2157,
+                "y": 586
+              },
+              {
+                "x": 2454,
+                "y": 585
+              },
+              {
+                "x": 2456,
+                "y": 647
+              },
+              {
+                "x": 2159,
+                "y": 651
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Son",
+        "boundingPolygon": [
+          {
+            "x": 2669,
+            "y": 574
+          },
+          {
+            "x": 2704,
+            "y": 599
+          },
+          {
+            "x": 2698,
+            "y": 637
+          },
+          {
+            "x": 2663,
+            "y": 613
+          }
+        ],
+        "words": [
+          {
+            "text": "Son",
+            "boundingPolygon": [
+              {
+                "x": 2670,
+                "y": 574
+              },
+              {
+                "x": 2705,
+                "y": 605
+              },
+              {
+                "x": 2694,
+                "y": 634
+              },
+              {
+                "x": 2663,
+                "y": 603
+              }
+            ],
+            "confidence": 0.413
+          }
+        ]
+      },
+      {
+        "text": "RUA DA GROTA, Nº483 -VILA GUSTAVO - SÃO PAULO, SP - CEP 02206-010 FONE: (11) 2983-3552",
+        "boundingPolygon": [
+          {
+            "x": 623,
+            "y": 735
+          },
+          {
+            "x": 2828,
+            "y": 711
+          },
+          {
+            "x": 2828,
+            "y": 762
+          },
+          {
+            "x": 623,
+            "y": 786
+          }
+        ],
+        "words": [
+          {
+            "text": "RUA",
+            "boundingPolygon": [
+              {
+                "x": 625,
+                "y": 740
+              },
+              {
+                "x": 727,
+                "y": 738
+              },
+              {
+                "x": 725,
+                "y": 785
+              },
+              {
+                "x": 623,
+                "y": 786
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "DA",
+            "boundingPolygon": [
+              {
+                "x": 742,
+                "y": 738
+              },
+              {
+                "x": 811,
+                "y": 737
+              },
+              {
+                "x": 809,
+                "y": 784
+              },
+              {
+                "x": 739,
+                "y": 785
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "GROTA,",
+            "boundingPolygon": [
+              {
+                "x": 828,
+                "y": 737
+              },
+              {
+                "x": 1014,
+                "y": 733
+              },
+              {
+                "x": 1012,
+                "y": 782
+              },
+              {
+                "x": 826,
+                "y": 784
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Nº483",
+            "boundingPolygon": [
+              {
+                "x": 1024,
+                "y": 733
+              },
+              {
+                "x": 1151,
+                "y": 731
+              },
+              {
+                "x": 1149,
+                "y": 780
+              },
+              {
+                "x": 1022,
+                "y": 782
+              }
+            ],
+            "confidence": 0.54
+          },
+          {
+            "text": "-VILA",
+            "boundingPolygon": [
+              {
+                "x": 1161,
+                "y": 731
+              },
+              {
+                "x": 1306,
+                "y": 728
+              },
+              {
+                "x": 1304,
+                "y": 779
+              },
+              {
+                "x": 1159,
+                "y": 780
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "GUSTAVO",
+            "boundingPolygon": [
+              {
+                "x": 1324,
+                "y": 728
+              },
+              {
+                "x": 1552,
+                "y": 725
+              },
+              {
+                "x": 1550,
+                "y": 776
+              },
+              {
+                "x": 1322,
+                "y": 779
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "-",
+            "boundingPolygon": [
+              {
+                "x": 1566,
+                "y": 725
+              },
+              {
+                "x": 1592,
+                "y": 724
+              },
+              {
+                "x": 1590,
+                "y": 776
+              },
+              {
+                "x": 1564,
+                "y": 776
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "SÃO",
+            "boundingPolygon": [
+              {
+                "x": 1613,
+                "y": 724
+              },
+              {
+                "x": 1699,
+                "y": 723
+              },
+              {
+                "x": 1697,
+                "y": 775
+              },
+              {
+                "x": 1611,
+                "y": 776
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "PAULO,",
+            "boundingPolygon": [
+              {
+                "x": 1723,
+                "y": 722
+              },
+              {
+                "x": 1906,
+                "y": 720
+              },
+              {
+                "x": 1904,
+                "y": 773
+              },
+              {
+                "x": 1721,
+                "y": 775
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "SP",
+            "boundingPolygon": [
+              {
+                "x": 1916,
+                "y": 720
+              },
+              {
+                "x": 1968,
+                "y": 719
+              },
+              {
+                "x": 1966,
+                "y": 772
+              },
+              {
+                "x": 1914,
+                "y": 773
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "-",
+            "boundingPolygon": [
+              {
+                "x": 1979,
+                "y": 719
+              },
+              {
+                "x": 2005,
+                "y": 719
+              },
+              {
+                "x": 2003,
+                "y": 772
+              },
+              {
+                "x": 1977,
+                "y": 772
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "CEP",
+            "boundingPolygon": [
+              {
+                "x": 2019,
+                "y": 719
+              },
+              {
+                "x": 2108,
+                "y": 718
+              },
+              {
+                "x": 2106,
+                "y": 771
+              },
+              {
+                "x": 2017,
+                "y": 772
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "02206-010",
+            "boundingPolygon": [
+              {
+                "x": 2122,
+                "y": 718
+              },
+              {
+                "x": 2341,
+                "y": 715
+              },
+              {
+                "x": 2339,
+                "y": 768
+              },
+              {
+                "x": 2120,
+                "y": 770
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "FONE:",
+            "boundingPolygon": [
+              {
+                "x": 2355,
+                "y": 715
+              },
+              {
+                "x": 2498,
+                "y": 714
+              },
+              {
+                "x": 2496,
+                "y": 767
+              },
+              {
+                "x": 2353,
+                "y": 768
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "(11)",
+            "boundingPolygon": [
+              {
+                "x": 2508,
+                "y": 714
+              },
+              {
+                "x": 2598,
+                "y": 713
+              },
+              {
+                "x": 2596,
+                "y": 766
+              },
+              {
+                "x": 2506,
+                "y": 767
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "2983-3552",
+            "boundingPolygon": [
+              {
+                "x": 2608,
+                "y": 713
+              },
+              {
+                "x": 2826,
+                "y": 711
+              },
+              {
+                "x": 2824,
+                "y": 763
+              },
+              {
+                "x": 2606,
+                "y": 766
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Decreto nº 42.703 de29/11/1963/ Resolução SE 37 de 24/1996",
+        "boundingPolygon": [
+          {
+            "x": 1095,
+            "y": 854
+          },
+          {
+            "x": 2354,
+            "y": 838
+          },
+          {
+            "x": 2354,
+            "y": 889
+          },
+          {
+            "x": 1095,
+            "y": 903
+          }
+        ],
+        "words": [
+          {
+            "text": "Decreto",
+            "boundingPolygon": [
+              {
+                "x": 1097,
+                "y": 855
+              },
+              {
+                "x": 1259,
+                "y": 853
+              },
+              {
+                "x": 1257,
+                "y": 902
+              },
+              {
+                "x": 1095,
+                "y": 903
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "nº",
+            "boundingPolygon": [
+              {
+                "x": 1270,
+                "y": 853
+              },
+              {
+                "x": 1319,
+                "y": 852
+              },
+              {
+                "x": 1318,
+                "y": 902
+              },
+              {
+                "x": 1268,
+                "y": 902
+              }
+            ],
+            "confidence": 0.325
+          },
+          {
+            "text": "42.703",
+            "boundingPolygon": [
+              {
+                "x": 1329,
+                "y": 852
+              },
+              {
+                "x": 1465,
+                "y": 850
+              },
+              {
+                "x": 1463,
+                "y": 901
+              },
+              {
+                "x": 1328,
+                "y": 902
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "de29/11/1963/",
+            "boundingPolygon": [
+              {
+                "x": 1475,
+                "y": 850
+              },
+              {
+                "x": 1763,
+                "y": 846
+              },
+              {
+                "x": 1762,
+                "y": 898
+              },
+              {
+                "x": 1473,
+                "y": 901
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Resolução",
+            "boundingPolygon": [
+              {
+                "x": 1773,
+                "y": 846
+              },
+              {
+                "x": 1984,
+                "y": 843
+              },
+              {
+                "x": 1983,
+                "y": 895
+              },
+              {
+                "x": 1772,
+                "y": 897
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "SE",
+            "boundingPolygon": [
+              {
+                "x": 1998,
+                "y": 843
+              },
+              {
+                "x": 2047,
+                "y": 842
+              },
+              {
+                "x": 2046,
+                "y": 894
+              },
+              {
+                "x": 1997,
+                "y": 895
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "37",
+            "boundingPolygon": [
+              {
+                "x": 2068,
+                "y": 842
+              },
+              {
+                "x": 2117,
+                "y": 842
+              },
+              {
+                "x": 2117,
+                "y": 893
+              },
+              {
+                "x": 2067,
+                "y": 894
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2127,
+                "y": 841
+              },
+              {
+                "x": 2179,
+                "y": 841
+              },
+              {
+                "x": 2179,
+                "y": 892
+              },
+              {
+                "x": 2127,
+                "y": 893
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "24/1996",
+            "boundingPolygon": [
+              {
+                "x": 2190,
+                "y": 841
+              },
+              {
+                "x": 2351,
+                "y": 839
+              },
+              {
+                "x": 2351,
+                "y": 889
+              },
+              {
+                "x": 2190,
+                "y": 892
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "Atos Legais da Escola e de Autorização do Curso",
+        "boundingPolygon": [
+          {
+            "x": 1231,
+            "y": 909
+          },
+          {
+            "x": 2226,
+            "y": 902
+          },
+          {
+            "x": 2227,
+            "y": 952
+          },
+          {
+            "x": 1231,
+            "y": 962
+          }
+        ],
+        "words": [
+          {
+            "text": "Atos",
+            "boundingPolygon": [
+              {
+                "x": 1231,
+                "y": 909
+              },
+              {
+                "x": 1327,
+                "y": 908
+              },
+              {
+                "x": 1329,
+                "y": 962
+              },
+              {
+                "x": 1233,
+                "y": 963
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "Legais",
+            "boundingPolygon": [
+              {
+                "x": 1337,
+                "y": 908
+              },
+              {
+                "x": 1470,
+                "y": 907
+              },
+              {
+                "x": 1472,
+                "y": 961
+              },
+              {
+                "x": 1339,
+                "y": 962
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "da",
+            "boundingPolygon": [
+              {
+                "x": 1480,
+                "y": 907
+              },
+              {
+                "x": 1532,
+                "y": 907
+              },
+              {
+                "x": 1533,
+                "y": 960
+              },
+              {
+                "x": 1482,
+                "y": 961
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Escola",
+            "boundingPolygon": [
+              {
+                "x": 1542,
+                "y": 906
+              },
+              {
+                "x": 1675,
+                "y": 905
+              },
+              {
+                "x": 1676,
+                "y": 959
+              },
+              {
+                "x": 1543,
+                "y": 960
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "e",
+            "boundingPolygon": [
+              {
+                "x": 1685,
+                "y": 905
+              },
+              {
+                "x": 1712,
+                "y": 905
+              },
+              {
+                "x": 1713,
+                "y": 958
+              },
+              {
+                "x": 1686,
+                "y": 959
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1723,
+                "y": 905
+              },
+              {
+                "x": 1773,
+                "y": 905
+              },
+              {
+                "x": 1774,
+                "y": 957
+              },
+              {
+                "x": 1724,
+                "y": 958
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Autorização",
+            "boundingPolygon": [
+              {
+                "x": 1784,
+                "y": 905
+              },
+              {
+                "x": 2026,
+                "y": 903
+              },
+              {
+                "x": 2026,
+                "y": 954
+              },
+              {
+                "x": 1785,
+                "y": 957
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "do",
+            "boundingPolygon": [
+              {
+                "x": 2037,
+                "y": 903
+              },
+              {
+                "x": 2088,
+                "y": 903
+              },
+              {
+                "x": 2089,
+                "y": 952
+              },
+              {
+                "x": 2037,
+                "y": 953
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Curso",
+            "boundingPolygon": [
+              {
+                "x": 2099,
+                "y": 903
+              },
+              {
+                "x": 2221,
+                "y": 902
+              },
+              {
+                "x": 2221,
+                "y": 950
+              },
+              {
+                "x": 2099,
+                "y": 952
+              }
+            ],
+            "confidence": 0.998
+          }
+        ]
+      },
+      {
+        "text": "CERTIFICADO",
+        "boundingPolygon": [
+          {
+            "x": 1508,
+            "y": 1055
+          },
+          {
+            "x": 1964,
+            "y": 1050
+          },
+          {
+            "x": 1965,
+            "y": 1112
+          },
+          {
+            "x": 1508,
+            "y": 1121
+          }
+        ],
+        "words": [
+          {
+            "text": "CERTIFICADO",
+            "boundingPolygon": [
+              {
+                "x": 1511,
+                "y": 1056
+              },
+              {
+                "x": 1951,
+                "y": 1051
+              },
+              {
+                "x": 1951,
+                "y": 1111
+              },
+              {
+                "x": 1509,
+                "y": 1122
+              }
+            ],
+            "confidence": 0.936
+          }
+        ]
+      },
+      {
+        "text": "O Diretor da Escola, nos termos do inciso VII, artigo 24 da Lei Federal 9394/96,",
+        "boundingPolygon": [
+          {
+            "x": 794,
+            "y": 1266
+          },
+          {
+            "x": 2670,
+            "y": 1242
+          },
+          {
+            "x": 2671,
+            "y": 1303
+          },
+          {
+            "x": 794,
+            "y": 1322
+          }
+        ],
+        "words": [
+          {
+            "text": "O",
+            "boundingPolygon": [
+              {
+                "x": 795,
+                "y": 1271
+              },
+              {
+                "x": 824,
+                "y": 1270
+              },
+              {
+                "x": 824,
+                "y": 1322
+              },
+              {
+                "x": 795,
+                "y": 1322
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "Diretor",
+            "boundingPolygon": [
+              {
+                "x": 852,
+                "y": 1270
+              },
+              {
+                "x": 1023,
+                "y": 1267
+              },
+              {
+                "x": 1023,
+                "y": 1322
+              },
+              {
+                "x": 852,
+                "y": 1322
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "da",
+            "boundingPolygon": [
+              {
+                "x": 1034,
+                "y": 1267
+              },
+              {
+                "x": 1091,
+                "y": 1266
+              },
+              {
+                "x": 1091,
+                "y": 1321
+              },
+              {
+                "x": 1034,
+                "y": 1322
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Escola,",
+            "boundingPolygon": [
+              {
+                "x": 1103,
+                "y": 1266
+              },
+              {
+                "x": 1270,
+                "y": 1264
+              },
+              {
+                "x": 1270,
+                "y": 1320
+              },
+              {
+                "x": 1102,
+                "y": 1321
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "nos",
+            "boundingPolygon": [
+              {
+                "x": 1282,
+                "y": 1264
+              },
+              {
+                "x": 1365,
+                "y": 1262
+              },
+              {
+                "x": 1365,
+                "y": 1320
+              },
+              {
+                "x": 1281,
+                "y": 1320
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "termos",
+            "boundingPolygon": [
+              {
+                "x": 1377,
+                "y": 1262
+              },
+              {
+                "x": 1540,
+                "y": 1260
+              },
+              {
+                "x": 1539,
+                "y": 1318
+              },
+              {
+                "x": 1376,
+                "y": 1319
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "do",
+            "boundingPolygon": [
+              {
+                "x": 1551,
+                "y": 1260
+              },
+              {
+                "x": 1611,
+                "y": 1259
+              },
+              {
+                "x": 1610,
+                "y": 1317
+              },
+              {
+                "x": 1551,
+                "y": 1318
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "inciso",
+            "boundingPolygon": [
+              {
+                "x": 1624,
+                "y": 1259
+              },
+              {
+                "x": 1763,
+                "y": 1257
+              },
+              {
+                "x": 1762,
+                "y": 1316
+              },
+              {
+                "x": 1623,
+                "y": 1317
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "VII,",
+            "boundingPolygon": [
+              {
+                "x": 1780,
+                "y": 1256
+              },
+              {
+                "x": 1878,
+                "y": 1255
+              },
+              {
+                "x": 1877,
+                "y": 1315
+              },
+              {
+                "x": 1779,
+                "y": 1316
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "artigo",
+            "boundingPolygon": [
+              {
+                "x": 1890,
+                "y": 1255
+              },
+              {
+                "x": 2026,
+                "y": 1253
+              },
+              {
+                "x": 2024,
+                "y": 1313
+              },
+              {
+                "x": 1889,
+                "y": 1315
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "24",
+            "boundingPolygon": [
+              {
+                "x": 2042,
+                "y": 1252
+              },
+              {
+                "x": 2098,
+                "y": 1251
+              },
+              {
+                "x": 2097,
+                "y": 1312
+              },
+              {
+                "x": 2041,
+                "y": 1313
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "da",
+            "boundingPolygon": [
+              {
+                "x": 2114,
+                "y": 1251
+              },
+              {
+                "x": 2167,
+                "y": 1250
+              },
+              {
+                "x": 2166,
+                "y": 1311
+              },
+              {
+                "x": 2113,
+                "y": 1312
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Lei",
+            "boundingPolygon": [
+              {
+                "x": 2179,
+                "y": 1250
+              },
+              {
+                "x": 2263,
+                "y": 1249
+              },
+              {
+                "x": 2261,
+                "y": 1310
+              },
+              {
+                "x": 2177,
+                "y": 1311
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "Federal",
+            "boundingPolygon": [
+              {
+                "x": 2274,
+                "y": 1249
+              },
+              {
+                "x": 2453,
+                "y": 1246
+              },
+              {
+                "x": 2451,
+                "y": 1307
+              },
+              {
+                "x": 2272,
+                "y": 1310
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "9394/96,",
+            "boundingPolygon": [
+              {
+                "x": 2464,
+                "y": 1246
+              },
+              {
+                "x": 2669,
+                "y": 1243
+              },
+              {
+                "x": 2667,
+                "y": 1303
+              },
+              {
+                "x": 2462,
+                "y": 1307
+              }
+            ],
+            "confidence": 0.992
+          }
+        ]
+      },
+      {
+        "text": "confere a CLEBER RIVERA LOPEZ FILHO, RG: 50.226.261-8 / SP, nascido em 04 de dezembro de 2001,",
+        "boundingPolygon": [
+          {
+            "x": 157,
+            "y": 1393
+          },
+          {
+            "x": 3313,
+            "y": 1353
+          },
+          {
+            "x": 3314,
+            "y": 1417
+          },
+          {
+            "x": 158,
+            "y": 1460
+          }
+        ],
+        "words": [
+          {
+            "text": "confere",
+            "boundingPolygon": [
+              {
+                "x": 158,
+                "y": 1397
+              },
+              {
+                "x": 335,
+                "y": 1394
+              },
+              {
+                "x": 337,
+                "y": 1458
+              },
+              {
+                "x": 160,
+                "y": 1460
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "a",
+            "boundingPolygon": [
+              {
+                "x": 353,
+                "y": 1394
+              },
+              {
+                "x": 387,
+                "y": 1393
+              },
+              {
+                "x": 389,
+                "y": 1458
+              },
+              {
+                "x": 355,
+                "y": 1458
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "CLEBER",
+            "boundingPolygon": [
+              {
+                "x": 410,
+                "y": 1393
+              },
+              {
+                "x": 666,
+                "y": 1388
+              },
+              {
+                "x": 667,
+                "y": 1454
+              },
+              {
+                "x": 412,
+                "y": 1457
+              }
+            ],
+            "confidence": 0.925
+          },
+          {
+            "text": "RIVERA",
+            "boundingPolygon": [
+              {
+                "x": 728,
+                "y": 1387
+              },
+              {
+                "x": 983,
+                "y": 1383
+              },
+              {
+                "x": 985,
+                "y": 1450
+              },
+              {
+                "x": 729,
+                "y": 1453
+              }
+            ],
+            "confidence": 0.901
+          },
+          {
+            "text": "LOPEZ",
+            "boundingPolygon": [
+              {
+                "x": 1037,
+                "y": 1382
+              },
+              {
+                "x": 1253,
+                "y": 1379
+              },
+              {
+                "x": 1255,
+                "y": 1446
+              },
+              {
+                "x": 1038,
+                "y": 1449
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "FILHO,",
+            "boundingPolygon": [
+              {
+                "x": 1306,
+                "y": 1378
+              },
+              {
+                "x": 1540,
+                "y": 1374
+              },
+              {
+                "x": 1542,
+                "y": 1442
+              },
+              {
+                "x": 1308,
+                "y": 1446
+              }
+            ],
+            "confidence": 0.951
+          },
+          {
+            "text": "RG:",
+            "boundingPolygon": [
+              {
+                "x": 1563,
+                "y": 1374
+              },
+              {
+                "x": 1680,
+                "y": 1372
+              },
+              {
+                "x": 1681,
+                "y": 1441
+              },
+              {
+                "x": 1564,
+                "y": 1442
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "50.226.261-8",
+            "boundingPolygon": [
+              {
+                "x": 1698,
+                "y": 1372
+              },
+              {
+                "x": 2051,
+                "y": 1367
+              },
+              {
+                "x": 2052,
+                "y": 1436
+              },
+              {
+                "x": 1699,
+                "y": 1440
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 2064,
+                "y": 1367
+              },
+              {
+                "x": 2099,
+                "y": 1367
+              },
+              {
+                "x": 2099,
+                "y": 1435
+              },
+              {
+                "x": 2065,
+                "y": 1435
+              }
+            ],
+            "confidence": 0.963
+          },
+          {
+            "text": "SP,",
+            "boundingPolygon": [
+              {
+                "x": 2112,
+                "y": 1367
+              },
+              {
+                "x": 2211,
+                "y": 1365
+              },
+              {
+                "x": 2211,
+                "y": 1433
+              },
+              {
+                "x": 2112,
+                "y": 1435
+              }
+            ],
+            "confidence": 0.948
+          },
+          {
+            "text": "nascido",
+            "boundingPolygon": [
+              {
+                "x": 2225,
+                "y": 1365
+              },
+              {
+                "x": 2411,
+                "y": 1363
+              },
+              {
+                "x": 2411,
+                "y": 1431
+              },
+              {
+                "x": 2226,
+                "y": 1433
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "em",
+            "boundingPolygon": [
+              {
+                "x": 2434,
+                "y": 1363
+              },
+              {
+                "x": 2494,
+                "y": 1362
+              },
+              {
+                "x": 2494,
+                "y": 1429
+              },
+              {
+                "x": 2434,
+                "y": 1430
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "04",
+            "boundingPolygon": [
+              {
+                "x": 2538,
+                "y": 1361
+              },
+              {
+                "x": 2611,
+                "y": 1361
+              },
+              {
+                "x": 2612,
+                "y": 1428
+              },
+              {
+                "x": 2539,
+                "y": 1429
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2651,
+                "y": 1360
+              },
+              {
+                "x": 2716,
+                "y": 1359
+              },
+              {
+                "x": 2716,
+                "y": 1426
+              },
+              {
+                "x": 2652,
+                "y": 1427
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "dezembro",
+            "boundingPolygon": [
+              {
+                "x": 2751,
+                "y": 1359
+              },
+              {
+                "x": 3003,
+                "y": 1356
+              },
+              {
+                "x": 3003,
+                "y": 1422
+              },
+              {
+                "x": 2752,
+                "y": 1426
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 3060,
+                "y": 1356
+              },
+              {
+                "x": 3125,
+                "y": 1355
+              },
+              {
+                "x": 3125,
+                "y": 1421
+              },
+              {
+                "x": 3061,
+                "y": 1421
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "2001,",
+            "boundingPolygon": [
+              {
+                "x": 3169,
+                "y": 1355
+              },
+              {
+                "x": 3313,
+                "y": 1353
+              },
+              {
+                "x": 3313,
+                "y": 1418
+              },
+              {
+                "x": 3169,
+                "y": 1420
+              }
+            ],
+            "confidence": 0.899
+          }
+        ]
+      },
+      {
+        "text": "natural do Município de São Paulo, Estado de São Paulo,",
+        "boundingPolygon": [
+          {
+            "x": 945,
+            "y": 1471
+          },
+          {
+            "x": 2527,
+            "y": 1446
+          },
+          {
+            "x": 2528,
+            "y": 1510
+          },
+          {
+            "x": 945,
+            "y": 1529
+          }
+        ],
+        "words": [
+          {
+            "text": "natural",
+            "boundingPolygon": [
+              {
+                "x": 945,
+                "y": 1479
+              },
+              {
+                "x": 1124,
+                "y": 1475
+              },
+              {
+                "x": 1124,
+                "y": 1529
+              },
+              {
+                "x": 945,
+                "y": 1529
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "do",
+            "boundingPolygon": [
+              {
+                "x": 1169,
+                "y": 1473
+              },
+              {
+                "x": 1228,
+                "y": 1472
+              },
+              {
+                "x": 1228,
+                "y": 1528
+              },
+              {
+                "x": 1169,
+                "y": 1528
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Município",
+            "boundingPolygon": [
+              {
+                "x": 1269,
+                "y": 1471
+              },
+              {
+                "x": 1516,
+                "y": 1465
+              },
+              {
+                "x": 1516,
+                "y": 1526
+              },
+              {
+                "x": 1269,
+                "y": 1528
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1572,
+                "y": 1464
+              },
+              {
+                "x": 1631,
+                "y": 1462
+              },
+              {
+                "x": 1631,
+                "y": 1525
+              },
+              {
+                "x": 1572,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "São",
+            "boundingPolygon": [
+              {
+                "x": 1664,
+                "y": 1462
+              },
+              {
+                "x": 1759,
+                "y": 1460
+              },
+              {
+                "x": 1759,
+                "y": 1523
+              },
+              {
+                "x": 1664,
+                "y": 1525
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Paulo,",
+            "boundingPolygon": [
+              {
+                "x": 1772,
+                "y": 1459
+              },
+              {
+                "x": 1951,
+                "y": 1456
+              },
+              {
+                "x": 1951,
+                "y": 1521
+              },
+              {
+                "x": 1772,
+                "y": 1523
+              }
+            ],
+            "confidence": 0.99
+          },
+          {
+            "text": "Estado",
+            "boundingPolygon": [
+              {
+                "x": 1972,
+                "y": 1455
+              },
+              {
+                "x": 2135,
+                "y": 1452
+              },
+              {
+                "x": 2135,
+                "y": 1518
+              },
+              {
+                "x": 1972,
+                "y": 1521
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2164,
+                "y": 1452
+              },
+              {
+                "x": 2223,
+                "y": 1451
+              },
+              {
+                "x": 2223,
+                "y": 1516
+              },
+              {
+                "x": 2164,
+                "y": 1518
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "São",
+            "boundingPolygon": [
+              {
+                "x": 2256,
+                "y": 1450
+              },
+              {
+                "x": 2350,
+                "y": 1448
+              },
+              {
+                "x": 2350,
+                "y": 1514
+              },
+              {
+                "x": 2256,
+                "y": 1516
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Paulo,",
+            "boundingPolygon": [
+              {
+                "x": 2363,
+                "y": 1448
+              },
+              {
+                "x": 2527,
+                "y": 1446
+              },
+              {
+                "x": 2527,
+                "y": 1510
+              },
+              {
+                "x": 2363,
+                "y": 1514
+              }
+            ],
+            "confidence": 0.948
+          }
+        ]
+      },
+      {
+        "text": "o presente CERTIFICADO de conclusão do Ensino Fundamental, em 31 de Dezembro de 2015.",
+        "boundingPolygon": [
+          {
+            "x": 454,
+            "y": 1569
+          },
+          {
+            "x": 3016,
+            "y": 1539
+          },
+          {
+            "x": 3017,
+            "y": 1602
+          },
+          {
+            "x": 454,
+            "y": 1638
+          }
+        ],
+        "words": [
+          {
+            "text": "o",
+            "boundingPolygon": [
+              {
+                "x": 455,
+                "y": 1572
+              },
+              {
+                "x": 488,
+                "y": 1572
+              },
+              {
+                "x": 488,
+                "y": 1639
+              },
+              {
+                "x": 455,
+                "y": 1639
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "presente",
+            "boundingPolygon": [
+              {
+                "x": 510,
+                "y": 1571
+              },
+              {
+                "x": 712,
+                "y": 1568
+              },
+              {
+                "x": 711,
+                "y": 1634
+              },
+              {
+                "x": 510,
+                "y": 1639
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "CERTIFICADO",
+            "boundingPolygon": [
+              {
+                "x": 747,
+                "y": 1567
+              },
+              {
+                "x": 1189,
+                "y": 1560
+              },
+              {
+                "x": 1189,
+                "y": 1625
+              },
+              {
+                "x": 746,
+                "y": 1634
+              }
+            ],
+            "confidence": 0.98
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1216,
+                "y": 1559
+              },
+              {
+                "x": 1278,
+                "y": 1558
+              },
+              {
+                "x": 1277,
+                "y": 1624
+              },
+              {
+                "x": 1215,
+                "y": 1625
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "conclusão",
+            "boundingPolygon": [
+              {
+                "x": 1300,
+                "y": 1558
+              },
+              {
+                "x": 1536,
+                "y": 1554
+              },
+              {
+                "x": 1535,
+                "y": 1619
+              },
+              {
+                "x": 1300,
+                "y": 1623
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "do",
+            "boundingPolygon": [
+              {
+                "x": 1563,
+                "y": 1554
+              },
+              {
+                "x": 1625,
+                "y": 1553
+              },
+              {
+                "x": 1624,
+                "y": 1618
+              },
+              {
+                "x": 1562,
+                "y": 1619
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "Ensino",
+            "boundingPolygon": [
+              {
+                "x": 1660,
+                "y": 1553
+              },
+              {
+                "x": 1845,
+                "y": 1550
+              },
+              {
+                "x": 1844,
+                "y": 1615
+              },
+              {
+                "x": 1659,
+                "y": 1617
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Fundamental,",
+            "boundingPolygon": [
+              {
+                "x": 1863,
+                "y": 1550
+              },
+              {
+                "x": 2246,
+                "y": 1546
+              },
+              {
+                "x": 2245,
+                "y": 1609
+              },
+              {
+                "x": 1862,
+                "y": 1614
+              }
+            ],
+            "confidence": 0.978
+          },
+          {
+            "text": "em",
+            "boundingPolygon": [
+              {
+                "x": 2260,
+                "y": 1546
+              },
+              {
+                "x": 2318,
+                "y": 1545
+              },
+              {
+                "x": 2317,
+                "y": 1608
+              },
+              {
+                "x": 2259,
+                "y": 1609
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "31",
+            "boundingPolygon": [
+              {
+                "x": 2362,
+                "y": 1545
+              },
+              {
+                "x": 2428,
+                "y": 1544
+              },
+              {
+                "x": 2427,
+                "y": 1607
+              },
+              {
+                "x": 2360,
+                "y": 1608
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2450,
+                "y": 1544
+              },
+              {
+                "x": 2513,
+                "y": 1543
+              },
+              {
+                "x": 2511,
+                "y": 1606
+              },
+              {
+                "x": 2449,
+                "y": 1607
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Dezembro",
+            "boundingPolygon": [
+              {
+                "x": 2531,
+                "y": 1543
+              },
+              {
+                "x": 2779,
+                "y": 1541
+              },
+              {
+                "x": 2777,
+                "y": 1603
+              },
+              {
+                "x": 2529,
+                "y": 1606
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2806,
+                "y": 1541
+              },
+              {
+                "x": 2868,
+                "y": 1540
+              },
+              {
+                "x": 2866,
+                "y": 1602
+              },
+              {
+                "x": 2804,
+                "y": 1603
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "2015.",
+            "boundingPolygon": [
+              {
+                "x": 2890,
+                "y": 1540
+              },
+              {
+                "x": 3017,
+                "y": 1539
+              },
+              {
+                "x": 3015,
+                "y": 1601
+              },
+              {
+                "x": 2888,
+                "y": 1602
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "São Paulo, 31 de Dezembro de 2015.",
+        "boundingPolygon": [
+          {
+            "x": 1306,
+            "y": 1682
+          },
+          {
+            "x": 2174,
+            "y": 1673
+          },
+          {
+            "x": 2174,
+            "y": 1731
+          },
+          {
+            "x": 1306,
+            "y": 1741
+          }
+        ],
+        "words": [
+          {
+            "text": "São",
+            "boundingPolygon": [
+              {
+                "x": 1310,
+                "y": 1682
+              },
+              {
+                "x": 1393,
+                "y": 1682
+              },
+              {
+                "x": 1393,
+                "y": 1741
+              },
+              {
+                "x": 1310,
+                "y": 1742
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Paulo,",
+            "boundingPolygon": [
+              {
+                "x": 1404,
+                "y": 1682
+              },
+              {
+                "x": 1559,
+                "y": 1682
+              },
+              {
+                "x": 1559,
+                "y": 1739
+              },
+              {
+                "x": 1405,
+                "y": 1741
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "31",
+            "boundingPolygon": [
+              {
+                "x": 1570,
+                "y": 1682
+              },
+              {
+                "x": 1630,
+                "y": 1681
+              },
+              {
+                "x": 1631,
+                "y": 1738
+              },
+              {
+                "x": 1571,
+                "y": 1739
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1642,
+                "y": 1681
+              },
+              {
+                "x": 1698,
+                "y": 1681
+              },
+              {
+                "x": 1699,
+                "y": 1737
+              },
+              {
+                "x": 1642,
+                "y": 1738
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Dezembro",
+            "boundingPolygon": [
+              {
+                "x": 1709,
+                "y": 1681
+              },
+              {
+                "x": 1953,
+                "y": 1678
+              },
+              {
+                "x": 1955,
+                "y": 1734
+              },
+              {
+                "x": 1710,
+                "y": 1737
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1969,
+                "y": 1677
+              },
+              {
+                "x": 2028,
+                "y": 1676
+              },
+              {
+                "x": 2030,
+                "y": 1733
+              },
+              {
+                "x": 1971,
+                "y": 1734
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "2015.",
+            "boundingPolygon": [
+              {
+                "x": 2041,
+                "y": 1676
+              },
+              {
+                "x": 2172,
+                "y": 1673
+              },
+              {
+                "x": 2174,
+                "y": 1732
+              },
+              {
+                "x": 2042,
+                "y": 1733
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Cleber R",
+        "boundingPolygon": [
+          {
+            "x": 427,
+            "y": 1932
+          },
+          {
+            "x": 811,
+            "y": 1929
+          },
+          {
+            "x": 812,
+            "y": 2041
+          },
+          {
+            "x": 427,
+            "y": 2047
+          }
+        ],
+        "words": [
+          {
+            "text": "Cleber",
+            "boundingPolygon": [
+              {
+                "x": 434,
+                "y": 1933
+              },
+              {
+                "x": 696,
+                "y": 1932
+              },
+              {
+                "x": 697,
+                "y": 2045
+              },
+              {
+                "x": 431,
+                "y": 2048
+              }
+            ],
+            "confidence": 0.823
+          },
+          {
+            "text": "R",
+            "boundingPolygon": [
+              {
+                "x": 718,
+                "y": 1932
+              },
+              {
+                "x": 796,
+                "y": 1930
+              },
+              {
+                "x": 799,
+                "y": 2043
+              },
+              {
+                "x": 720,
+                "y": 2044
+              }
+            ],
+            "confidence": 0.112
+          }
+        ]
+      },
+      {
+        "text": "Concluinte",
+        "boundingPolygon": [
+          {
+            "x": 559,
+            "y": 2048
+          },
+          {
+            "x": 745,
+            "y": 2047
+          },
+          {
+            "x": 745,
+            "y": 2085
+          },
+          {
+            "x": 559,
+            "y": 2086
+          }
+        ],
+        "words": [
+          {
+            "text": "Concluinte",
+            "boundingPolygon": [
+              {
+                "x": 561,
+                "y": 2048
+              },
+              {
+                "x": 740,
+                "y": 2048
+              },
+              {
+                "x": 744,
+                "y": 2085
+              },
+              {
+                "x": 559,
+                "y": 2087
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Gerente de Escola",
+        "boundingPolygon": [
+          {
+            "x": 1477,
+            "y": 2033
+          },
+          {
+            "x": 1783,
+            "y": 2032
+          },
+          {
+            "x": 1783,
+            "y": 2072
+          },
+          {
+            "x": 1477,
+            "y": 2074
+          }
+        ],
+        "words": [
+          {
+            "text": "Gerente",
+            "boundingPolygon": [
+              {
+                "x": 1478,
+                "y": 2037
+              },
+              {
+                "x": 1611,
+                "y": 2032
+              },
+              {
+                "x": 1612,
+                "y": 2074
+              },
+              {
+                "x": 1478,
+                "y": 2074
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1620,
+                "y": 2032
+              },
+              {
+                "x": 1661,
+                "y": 2032
+              },
+              {
+                "x": 1662,
+                "y": 2074
+              },
+              {
+                "x": 1621,
+                "y": 2074
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Escola",
+            "boundingPolygon": [
+              {
+                "x": 1670,
+                "y": 2032
+              },
+              {
+                "x": 1780,
+                "y": 2033
+              },
+              {
+                "x": 1782,
+                "y": 2072
+              },
+              {
+                "x": 1671,
+                "y": 2074
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Diretor de Escola",
+        "boundingPolygon": [
+          {
+            "x": 2461,
+            "y": 2024
+          },
+          {
+            "x": 2759,
+            "y": 2022
+          },
+          {
+            "x": 2759,
+            "y": 2058
+          },
+          {
+            "x": 2461,
+            "y": 2062
+          }
+        ],
+        "words": [
+          {
+            "text": "Diretor",
+            "boundingPolygon": [
+              {
+                "x": 2464,
+                "y": 2025
+              },
+              {
+                "x": 2589,
+                "y": 2023
+              },
+              {
+                "x": 2590,
+                "y": 2062
+              },
+              {
+                "x": 2464,
+                "y": 2063
+              }
+            ],
+            "confidence": 0.981
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2597,
+                "y": 2023
+              },
+              {
+                "x": 2638,
+                "y": 2023
+              },
+              {
+                "x": 2639,
+                "y": 2061
+              },
+              {
+                "x": 2598,
+                "y": 2062
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Escola",
+            "boundingPolygon": [
+              {
+                "x": 2646,
+                "y": 2023
+              },
+              {
+                "x": 2757,
+                "y": 2022
+              },
+              {
+                "x": 2759,
+                "y": 2057
+              },
+              {
+                "x": 2647,
+                "y": 2061
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "Thelma Ap. Campos Machado",
+        "boundingPolygon": [
+          {
+            "x": 1409,
+            "y": 2102
+          },
+          {
+            "x": 1843,
+            "y": 2100
+          },
+          {
+            "x": 1844,
+            "y": 2144
+          },
+          {
+            "x": 1409,
+            "y": 2150
+          }
+        ],
+        "words": [
+          {
+            "text": "Thelma",
+            "boundingPolygon": [
+              {
+                "x": 1412,
+                "y": 2103
+              },
+              {
+                "x": 1518,
+                "y": 2102
+              },
+              {
+                "x": 1516,
+                "y": 2150
+              },
+              {
+                "x": 1410,
+                "y": 2151
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Ap.",
+            "boundingPolygon": [
+              {
+                "x": 1527,
+                "y": 2102
+              },
+              {
+                "x": 1572,
+                "y": 2102
+              },
+              {
+                "x": 1571,
+                "y": 2149
+              },
+              {
+                "x": 1525,
+                "y": 2150
+              }
+            ],
+            "confidence": 0.944
+          },
+          {
+            "text": "Campos",
+            "boundingPolygon": [
+              {
+                "x": 1581,
+                "y": 2102
+              },
+              {
+                "x": 1697,
+                "y": 2101
+              },
+              {
+                "x": 1696,
+                "y": 2147
+              },
+              {
+                "x": 1580,
+                "y": 2149
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "Machado",
+            "boundingPolygon": [
+              {
+                "x": 1706,
+                "y": 2101
+              },
+              {
+                "x": 1842,
+                "y": 2100
+              },
+              {
+                "x": 1842,
+                "y": 2143
+              },
+              {
+                "x": 1705,
+                "y": 2146
+              }
+            ],
+            "confidence": 0.901
+          }
+        ]
+      },
+      {
+        "text": "Nivaldo Muniz Kosloski",
+        "boundingPolygon": [
+          {
+            "x": 2404,
+            "y": 2084
+          },
+          {
+            "x": 2880,
+            "y": 2067
+          },
+          {
+            "x": 2881,
+            "y": 2110
+          },
+          {
+            "x": 2404,
+            "y": 2131
+          }
+        ],
+        "words": [
+          {
+            "text": "Nivaldo",
+            "boundingPolygon": [
+              {
+                "x": 2407,
+                "y": 2085
+              },
+              {
+                "x": 2563,
+                "y": 2079
+              },
+              {
+                "x": 2563,
+                "y": 2123
+              },
+              {
+                "x": 2407,
+                "y": 2132
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "Muniz",
+            "boundingPolygon": [
+              {
+                "x": 2575,
+                "y": 2078
+              },
+              {
+                "x": 2703,
+                "y": 2074
+              },
+              {
+                "x": 2703,
+                "y": 2116
+              },
+              {
+                "x": 2575,
+                "y": 2122
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Kosloski",
+            "boundingPolygon": [
+              {
+                "x": 2712,
+                "y": 2073
+              },
+              {
+                "x": 2880,
+                "y": 2067
+              },
+              {
+                "x": 2880,
+                "y": 2109
+              },
+              {
+                "x": 2712,
+                "y": 2115
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "RG. 14 509 137-5",
+        "boundingPolygon": [
+          {
+            "x": 1471,
+            "y": 2154
+          },
+          {
+            "x": 1765,
+            "y": 2152
+          },
+          {
+            "x": 1766,
+            "y": 2192
+          },
+          {
+            "x": 1471,
+            "y": 2193
+          }
+        ],
+        "words": [
+          {
+            "text": "RG.",
+            "boundingPolygon": [
+              {
+                "x": 1487,
+                "y": 2157
+              },
+              {
+                "x": 1551,
+                "y": 2155
+              },
+              {
+                "x": 1551,
+                "y": 2193
+              },
+              {
+                "x": 1487,
+                "y": 2193
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "14",
+            "boundingPolygon": [
+              {
+                "x": 1559,
+                "y": 2154
+              },
+              {
+                "x": 1596,
+                "y": 2153
+              },
+              {
+                "x": 1596,
+                "y": 2193
+              },
+              {
+                "x": 1559,
+                "y": 2193
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "509",
+            "boundingPolygon": [
+              {
+                "x": 1605,
+                "y": 2153
+              },
+              {
+                "x": 1666,
+                "y": 2153
+              },
+              {
+                "x": 1666,
+                "y": 2193
+              },
+              {
+                "x": 1605,
+                "y": 2193
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "137-5",
+            "boundingPolygon": [
+              {
+                "x": 1677,
+                "y": 2152
+              },
+              {
+                "x": 1764,
+                "y": 2153
+              },
+              {
+                "x": 1764,
+                "y": 2193
+              },
+              {
+                "x": 1677,
+                "y": 2193
+              }
+            ],
+            "confidence": 0.971
+          }
+        ]
+      },
+      {
+        "text": "Diretor de Escola",
+        "boundingPolygon": [
+          {
+            "x": 2498,
+            "y": 2128
+          },
+          {
+            "x": 2788,
+            "y": 2118
+          },
+          {
+            "x": 2789,
+            "y": 2152
+          },
+          {
+            "x": 2498,
+            "y": 2163
+          }
+        ],
+        "words": [
+          {
+            "text": "Diretor",
+            "boundingPolygon": [
+              {
+                "x": 2501,
+                "y": 2128
+              },
+              {
+                "x": 2617,
+                "y": 2125
+              },
+              {
+                "x": 2618,
+                "y": 2160
+              },
+              {
+                "x": 2501,
+                "y": 2163
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 2624,
+                "y": 2124
+              },
+              {
+                "x": 2666,
+                "y": 2123
+              },
+              {
+                "x": 2667,
+                "y": 2158
+              },
+              {
+                "x": 2625,
+                "y": 2159
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "Escola",
+            "boundingPolygon": [
+              {
+                "x": 2678,
+                "y": 2123
+              },
+              {
+                "x": 2787,
+                "y": 2118
+              },
+              {
+                "x": 2789,
+                "y": 2150
+              },
+              {
+                "x": 2679,
+                "y": 2157
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "Gerente de Org. Escolar",
+        "boundingPolygon": [
+          {
+            "x": 1439,
+            "y": 2192
+          },
+          {
+            "x": 1819,
+            "y": 2192
+          },
+          {
+            "x": 1819,
+            "y": 2232
+          },
+          {
+            "x": 1439,
+            "y": 2232
+          }
+        ],
+        "words": [
+          {
+            "text": "Gerente",
+            "boundingPolygon": [
+              {
+                "x": 1439,
+                "y": 2192
+              },
+              {
+                "x": 1565,
+                "y": 2193
+              },
+              {
+                "x": 1565,
+                "y": 2232
+              },
+              {
+                "x": 1439,
+                "y": 2233
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 1574,
+                "y": 2193
+              },
+              {
+                "x": 1614,
+                "y": 2193
+              },
+              {
+                "x": 1614,
+                "y": 2232
+              },
+              {
+                "x": 1574,
+                "y": 2232
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "Org.",
+            "boundingPolygon": [
+              {
+                "x": 1623,
+                "y": 2193
+              },
+              {
+                "x": 1695,
+                "y": 2193
+              },
+              {
+                "x": 1695,
+                "y": 2232
+              },
+              {
+                "x": 1623,
+                "y": 2232
+              }
+            ],
+            "confidence": 0.97
+          },
+          {
+            "text": "Escolar",
+            "boundingPolygon": [
+              {
+                "x": 1703,
+                "y": 2193
+              },
+              {
+                "x": 1819,
+                "y": 2194
+              },
+              {
+                "x": 1819,
+                "y": 2232
+              },
+              {
+                "x": 1703,
+                "y": 2232
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "RG. 55.229.628-4",
+        "boundingPolygon": [
+          {
+            "x": 2497,
+            "y": 2167
+          },
+          {
+            "x": 2797,
+            "y": 2157
+          },
+          {
+            "x": 2799,
+            "y": 2193
+          },
+          {
+            "x": 2498,
+            "y": 2204
+          }
+        ],
+        "words": [
+          {
+            "text": "RG.",
+            "boundingPolygon": [
+              {
+                "x": 2497,
+                "y": 2167
+              },
+              {
+                "x": 2565,
+                "y": 2165
+              },
+              {
+                "x": 2567,
+                "y": 2200
+              },
+              {
+                "x": 2499,
+                "y": 2205
+              }
+            ],
+            "confidence": 0.976
+          },
+          {
+            "text": "55.229.628-4",
+            "boundingPolygon": [
+              {
+                "x": 2573,
+                "y": 2164
+              },
+              {
+                "x": 2791,
+                "y": 2158
+              },
+              {
+                "x": 2794,
+                "y": 2192
+              },
+              {
+                "x": 2575,
+                "y": 2200
+              }
+            ],
+            "confidence": 0.99
+          }
+        ]
+      }
+    ]
+  }
+]
